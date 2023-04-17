@@ -1,4 +1,4 @@
-# My_Profile
+# About Myself
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -19,7 +19,7 @@
 ## Name : 
 
 
-     ALOK KUMAR KAUSHAL
+     ASHISH KUMAR
      
 ## Currently Working : 
 
@@ -33,29 +33,20 @@
   <li>  Django Rest API</li>
   <li>  Pandas</li>
   <li>  Numpy</li>
-  <li>  MatplotLib </li>
   <li>  Selenium </li>
-  <li>  Robot Framework </li>
-  <li>  Docker </li>
   <li>  Git </li>
   <li>  Heroku </li>
   <li>  Swagger Documentation </li>
+  <li>  Postman </li>
   </ul>
   
 ## Links :
   <div id="badges">
-    <a href="https://www.linkedin.com/in/alok-kumar-kaushal-a07402100/">
+    <a href="https://www.linkedin.com/in/ashish-kumar-1a215a206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <a href="https://alok-kumar.herokuapp.com/">
-      <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" alt="Heroku Badge"/>
-    </a>
-    <a href="https://gitlab.com/alok-techqware.com">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab Badge" width="40" height="40"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=alok-techqware&style=flat-square&color=blue" alt=""/>
 
 
   </div>
@@ -83,7 +74,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"  alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;
