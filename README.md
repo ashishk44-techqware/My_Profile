@@ -45,9 +45,6 @@
     <a href="https://www.linkedin.com/in/ashish-kumar-1a215a206/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
 
   </div>
  
@@ -82,9 +79,6 @@
 
 </div>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alok-techqware&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-techqware&layout=compact&theme=vision-friendly-dark)](https://github.com/alok-techqware/github-readme-stats)
 
 
 ``` https://github.com/devicons/devicon/tree/master/icons ```
